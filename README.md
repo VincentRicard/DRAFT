@@ -13,7 +13,7 @@ J'ai donc dans ce processus de création besoin de la participation de praticien
 
 ***
 
-__Si vous souhaitez participer, vous pouvez simplement créer un nouveau dossier dans "Ressources", et l'intituler à votre guise. Toute trace me sera utile : croquis, photographie, scan de carnet de notes, brouillon, storyboard, code source, etc. L'organisation est toute aussi libre, le seul impératif étant de respecter les dossiers de tous les contributeurs.
+__Si vous souhaitez participer, vous pouvez simplement créer un nouveau dossier dans "Ressources", et l'intituler à votre guise. Toute trace me sera utile : croquis, photographie, scan de carnet de notes, brouillon, storyboard, code source, etc. L'organisation est toute aussi libre, le seul impératif étant de respecter les branches de tous les contributeurs.
 Draft étant Open Source, et pour des raisons de droits dans des contextes professionels, quelques notes sur votre processus de travail pourraient suffire. Cela peut aussi être fait de manière anonyme, ou en m'envoyant un mail à vcent.ricard@gmail.com.__
 ***
 _Ce projet étant aussi l'occasion pour moi d'expérimenter des processus de travail différents, un méta-fichier sur le suivi du projet sera tenu à jour (quotidiennement à partir du premier juin) où chaque commit tiendra informé de l'évolution du projet._
