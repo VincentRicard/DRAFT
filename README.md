@@ -17,3 +17,5 @@ __Si vous souhaitez participer, vous pouvez simplement créer un nouveau dossier
 Draft étant Open Source, et pour des raisons de droits dans des contextes professionels, quelques notes sur votre processus de travail pourraient suffire. Cela peut aussi être fait de manière anonyme, ou en m'envoyant un mail à vcent.ricard@gmail.com.__
 ***
 _Ce projet étant aussi l'occasion pour moi d'expérimenter des processus de travail différents, un méta-fichier sur le suivi du projet sera tenu à jour (quotidiennement à partir du premier juin) où chaque commit tiendra informé de l'évolution du projet._
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
