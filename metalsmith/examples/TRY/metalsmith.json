@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "title": "Draft",
+    "description": "This is it"
+  },
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-permalinks": {
+      "pattern": ":title"
+    },
+    "metalsmith-templates": {
+      "engine": "handlebars"
+    },
+    "metalsmith-less" :{}
+  }
+}

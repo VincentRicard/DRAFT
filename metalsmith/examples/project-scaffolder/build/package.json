@@ -1,0 +1,12 @@
+{
+  "name": "je-sais-pas",
+  "description": "caca",
+  "repository": "git://github.com/aucune-idee.git",
+  "version": "0.0.0",
+  "license": "CC",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}
